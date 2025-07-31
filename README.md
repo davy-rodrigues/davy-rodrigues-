@@ -37,7 +37,7 @@
 
 ---
 
-![davy-rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=holi&show_icons=true)
+![davy-rodrigues](https://github-readme-stats.vercel.app/api?username=davy-rodrigues&theme=holi&show_icons=true)
   
 
 ---
