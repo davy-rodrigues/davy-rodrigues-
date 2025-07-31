@@ -37,7 +37,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=holi&show_icons=true)
+![davy-rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=holi&show_icons=true)
   
 
 ---
