@@ -25,13 +25,6 @@
 ---
 
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davy-rodrigues&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davy-rodrigues&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
