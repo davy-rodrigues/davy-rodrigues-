@@ -37,9 +37,8 @@
 
 ---
 
-
-<   imag src="https://raw.githubusercontent.com/davy/davy/output/snake.svg" alt="Snake animation"   />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=holi&show_icons=true)
+  
 
 ---
 
